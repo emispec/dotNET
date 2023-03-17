@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/bin/Debug/net7.0/S1E2
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/bin/Debug/net7.0/S1E2.deps.json
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/bin/Debug/net7.0/S1E2.runtimeconfig.json
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/bin/Debug/net7.0/S1E2.dll
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/bin/Debug/net7.0/S1E2.pdb
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/S1E2.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/S1E2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/S1E2.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/S1E2.AssemblyInfo.cs
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/S1E2.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/S1E2.dll
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/refint/S1E2.dll
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/S1E2.pdb
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/S1E2.genruntimeconfig.cache
+/Users/emiliano/Desktop/ISTEA/Programacion C#/S1E2/obj/Debug/net7.0/ref/S1E2.dll
