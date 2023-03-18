@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/S3/bin/Debug/net7.0/S3
+/Users/emiliano/Desktop/dotNET/S3/bin/Debug/net7.0/S3.deps.json
+/Users/emiliano/Desktop/dotNET/S3/bin/Debug/net7.0/S3.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/S3/bin/Debug/net7.0/S3.dll
+/Users/emiliano/Desktop/dotNET/S3/bin/Debug/net7.0/S3.pdb
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/S3.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/S3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/S3.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/S3.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/S3.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/S3.dll
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/refint/S3.dll
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/S3.pdb
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/S3.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/S3/obj/Debug/net7.0/ref/S3.dll
