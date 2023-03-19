@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/S4/bin/Debug/net7.0/S4
+/Users/emiliano/Desktop/dotNET/S4/bin/Debug/net7.0/S4.deps.json
+/Users/emiliano/Desktop/dotNET/S4/bin/Debug/net7.0/S4.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/S4/bin/Debug/net7.0/S4.dll
+/Users/emiliano/Desktop/dotNET/S4/bin/Debug/net7.0/S4.pdb
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/S4.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/S4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/S4.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/S4.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/S4.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/S4.dll
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/refint/S4.dll
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/S4.pdb
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/S4.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/S4/obj/Debug/net7.0/ref/S4.dll
