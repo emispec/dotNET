@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/S5/bin/Debug/net7.0/S5
+/Users/emiliano/Desktop/dotNET/S5/bin/Debug/net7.0/S5.deps.json
+/Users/emiliano/Desktop/dotNET/S5/bin/Debug/net7.0/S5.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/S5/bin/Debug/net7.0/S5.dll
+/Users/emiliano/Desktop/dotNET/S5/bin/Debug/net7.0/S5.pdb
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/S5.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/S5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/S5.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/S5.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/S5.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/S5.dll
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/refint/S5.dll
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/S5.pdb
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/S5.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/S5/obj/Debug/net7.0/ref/S5.dll
