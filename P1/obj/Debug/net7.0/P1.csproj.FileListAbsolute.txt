@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P1/bin/Debug/net7.0/P1
+/Users/emiliano/Desktop/dotNET/P1/bin/Debug/net7.0/P1.deps.json
+/Users/emiliano/Desktop/dotNET/P1/bin/Debug/net7.0/P1.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P1/bin/Debug/net7.0/P1.dll
+/Users/emiliano/Desktop/dotNET/P1/bin/Debug/net7.0/P1.pdb
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/P1.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/P1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/P1.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/P1.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/P1.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/P1.dll
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/refint/P1.dll
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/P1.pdb
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/P1.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P1/obj/Debug/net7.0/ref/P1.dll
