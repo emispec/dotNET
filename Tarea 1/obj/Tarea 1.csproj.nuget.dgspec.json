@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emiliano/Desktop/ISTEA/C#/Tarea 1/Tarea 1.csproj": {}
+    "/Users/emiliano/Desktop/dotNET/Tarea 1/Tarea 1.csproj": {}
   },
   "projects": {
-    "/Users/emiliano/Desktop/ISTEA/C#/Tarea 1/Tarea 1.csproj": {
+    "/Users/emiliano/Desktop/dotNET/Tarea 1/Tarea 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emiliano/Desktop/ISTEA/C#/Tarea 1/Tarea 1.csproj",
+        "projectUniqueName": "/Users/emiliano/Desktop/dotNET/Tarea 1/Tarea 1.csproj",
         "projectName": "Tarea 1",
-        "projectPath": "/Users/emiliano/Desktop/ISTEA/C#/Tarea 1/Tarea 1.csproj",
+        "projectPath": "/Users/emiliano/Desktop/dotNET/Tarea 1/Tarea 1.csproj",
         "packagesPath": "/Users/emiliano/.nuget/packages/",
-        "outputPath": "/Users/emiliano/Desktop/ISTEA/C#/Tarea 1/obj/",
+        "outputPath": "/Users/emiliano/Desktop/dotNET/Tarea 1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emiliano/.nuget/NuGet/NuGet.Config"

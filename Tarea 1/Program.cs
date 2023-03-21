@@ -10,17 +10,19 @@ Sugerencias:
 */
 
 //MAIN
-Console.WriteLine("Seleccione el numero de la operacion que desea");
-Console.WriteLine(@"1) Interes simple
+SelectorOperacion();
+
+//------  FUNCIONES -------
+void SelectorOperacion() {
+    Console.WriteLine("Seleccione el numero de la operacion que desea");
+    Console.WriteLine(@"1) Interes simple
 2) Punto de equilibrio
 3) Calculadora de gasto fijo
 4) Calculadora de gastos variables
 5) Trigonometria: Coseno");
-string? opcion = Console.ReadLine();
-
-Selector(opcion);
-
-//------  FUNCIONES -------
+    string? opcion = Console.ReadLine();
+    Selector(opcion);
+}
 
 //SELECCION DE OPCION
 void Selector(string opcion)
@@ -44,6 +46,7 @@ void Selector(string opcion)
         break;
     default:
         Console.WriteLine("No reconozco la opcion.\n Pruebe de nuevo.");
+        SelectorOperacion();
         break;
     }
 }
