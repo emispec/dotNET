@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/P2.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/P2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/P2.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/P2.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/P2.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P2/bin/Debug/net7.0/P2
+/Users/emiliano/Desktop/dotNET/P2/bin/Debug/net7.0/P2.deps.json
+/Users/emiliano/Desktop/dotNET/P2/bin/Debug/net7.0/P2.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P2/bin/Debug/net7.0/P2.dll
+/Users/emiliano/Desktop/dotNET/P2/bin/Debug/net7.0/P2.pdb
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/P2.dll
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/refint/P2.dll
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/P2.pdb
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/P2.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P2/obj/Debug/net7.0/ref/P2.dll
