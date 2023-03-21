@@ -13,6 +13,8 @@ Sugerencias:
 SelectorOperacion();
 
 //------  FUNCIONES -------
+
+//PRESENTACION
 void SelectorOperacion() {
     Console.WriteLine("Seleccione el numero de la operacion que desea");
     Console.WriteLine(@"1) Interes simple
