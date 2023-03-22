@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P5 POO 2/bin/Debug/net7.0/P5 POO 2
+/Users/emiliano/Desktop/dotNET/P5 POO 2/bin/Debug/net7.0/P5 POO 2.deps.json
+/Users/emiliano/Desktop/dotNET/P5 POO 2/bin/Debug/net7.0/P5 POO 2.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P5 POO 2/bin/Debug/net7.0/P5 POO 2.dll
+/Users/emiliano/Desktop/dotNET/P5 POO 2/bin/Debug/net7.0/P5 POO 2.pdb
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/P5 POO 2.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/P5 POO 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/P5 POO 2.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/P5 POO 2.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/P5 POO 2.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/P5 POO 2.dll
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/refint/P5 POO 2.dll
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/P5 POO 2.pdb
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/P5 POO 2.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P5 POO 2/obj/Debug/net7.0/ref/P5 POO 2.dll
