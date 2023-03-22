@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/bin/Debug/net7.0/P3 Funciones y metodos II
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/bin/Debug/net7.0/P3 Funciones y metodos II.deps.json
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/bin/Debug/net7.0/P3 Funciones y metodos II.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/bin/Debug/net7.0/P3 Funciones y metodos II.dll
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/bin/Debug/net7.0/P3 Funciones y metodos II.pdb
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/P3 Funciones y metodos II.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/P3 Funciones y metodos II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/P3 Funciones y metodos II.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/P3 Funciones y metodos II.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/P3 Funciones y metodos II.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/P3 Funciones y metodos II.dll
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/refint/P3 Funciones y metodos II.dll
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/P3 Funciones y metodos II.pdb
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/P3 Funciones y metodos II.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P3 Funciones y metodos II/obj/Debug/net7.0/ref/P3 Funciones y metodos II.dll
