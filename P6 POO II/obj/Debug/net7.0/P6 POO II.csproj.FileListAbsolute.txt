@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P6 POO II/bin/Debug/net7.0/P6 POO II
+/Users/emiliano/Desktop/dotNET/P6 POO II/bin/Debug/net7.0/P6 POO II.deps.json
+/Users/emiliano/Desktop/dotNET/P6 POO II/bin/Debug/net7.0/P6 POO II.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P6 POO II/bin/Debug/net7.0/P6 POO II.dll
+/Users/emiliano/Desktop/dotNET/P6 POO II/bin/Debug/net7.0/P6 POO II.pdb
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/P6 POO II.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/P6 POO II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/P6 POO II.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/P6 POO II.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/P6 POO II.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/P6 POO II.dll
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/refint/P6 POO II.dll
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/P6 POO II.pdb
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/P6 POO II.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P6 POO II/obj/Debug/net7.0/ref/P6 POO II.dll
