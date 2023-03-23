@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P7 Collections/bin/Debug/net7.0/P7 Collections
+/Users/emiliano/Desktop/dotNET/P7 Collections/bin/Debug/net7.0/P7 Collections.deps.json
+/Users/emiliano/Desktop/dotNET/P7 Collections/bin/Debug/net7.0/P7 Collections.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P7 Collections/bin/Debug/net7.0/P7 Collections.dll
+/Users/emiliano/Desktop/dotNET/P7 Collections/bin/Debug/net7.0/P7 Collections.pdb
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/P7 Collections.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/P7 Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/P7 Collections.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/P7 Collections.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/P7 Collections.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/P7 Collections.dll
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/refint/P7 Collections.dll
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/P7 Collections.pdb
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/P7 Collections.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P7 Collections/obj/Debug/net7.0/ref/P7 Collections.dll
