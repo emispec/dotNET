@@ -17,3 +17,20 @@ double cociente = 5 / 30d;
 (int Suma, double Division) otraTupla = (miSuma, cociente);
 
 Console.WriteLine($"1: {otraTupla.Item1}, 2: {otraTupla.Item2}");
+
+//3 haciendo un return de tupla
+
+int a = 10;
+int b = 5;
+
+Tuple<int, int> resultado = Calculadora(a, b);
+
+Console.WriteLine($"{resultado.Item1} y {resultado.Item2}" );
+
+Tuple<int,int> Calculadora(int a, int b)
+{
+    int suma = a + b;
+    int resta = a - b;
+
+    return Tuple.Create(suma, resta);
+}
