@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/bin/Debug/net7.0/P10 Multithreading
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/bin/Debug/net7.0/P10 Multithreading.deps.json
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/bin/Debug/net7.0/P10 Multithreading.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/bin/Debug/net7.0/P10 Multithreading.dll
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/bin/Debug/net7.0/P10 Multithreading.pdb
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/P10 Multithreading.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/P10 Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/P10 Multithreading.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/P10 Multithreading.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/P10 Multithreading.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/P10 Multithreading.dll
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/refint/P10 Multithreading.dll
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/P10 Multithreading.pdb
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/P10 Multithreading.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P11 Multithreading/obj/Debug/net7.0/ref/P10 Multithreading.dll
