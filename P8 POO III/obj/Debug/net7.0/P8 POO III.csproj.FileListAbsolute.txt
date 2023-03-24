@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/P8 POO III.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/P8 POO III.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/P8 POO III.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/P8 POO III.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/P8 POO III.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P8 POO III/bin/Debug/net7.0/P8 POO III
+/Users/emiliano/Desktop/dotNET/P8 POO III/bin/Debug/net7.0/P8 POO III.deps.json
+/Users/emiliano/Desktop/dotNET/P8 POO III/bin/Debug/net7.0/P8 POO III.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P8 POO III/bin/Debug/net7.0/P8 POO III.dll
+/Users/emiliano/Desktop/dotNET/P8 POO III/bin/Debug/net7.0/P8 POO III.pdb
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/P8 POO III.dll
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/refint/P8 POO III.dll
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/P8 POO III.pdb
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/P8 POO III.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P8 POO III/obj/Debug/net7.0/ref/P8 POO III.dll
