@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/P10 Asincronismo.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/P10 Asincronismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/P10 Asincronismo.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/P10 Asincronismo.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/P10 Asincronismo.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/bin/Debug/net7.0/P10 Asincronismo
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/bin/Debug/net7.0/P10 Asincronismo.deps.json
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/bin/Debug/net7.0/P10 Asincronismo.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/bin/Debug/net7.0/P10 Asincronismo.dll
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/bin/Debug/net7.0/P10 Asincronismo.pdb
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/P10 Asincronismo.dll
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/refint/P10 Asincronismo.dll
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/P10 Asincronismo.pdb
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/P10 Asincronismo.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P10 Asincronismo/obj/Debug/net7.0/ref/P10 Asincronismo.dll
