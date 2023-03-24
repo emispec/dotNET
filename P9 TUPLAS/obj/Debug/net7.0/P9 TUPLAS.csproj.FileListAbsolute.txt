@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/bin/Debug/net7.0/P9 TUPLAS
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/bin/Debug/net7.0/P9 TUPLAS.deps.json
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/bin/Debug/net7.0/P9 TUPLAS.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/bin/Debug/net7.0/P9 TUPLAS.dll
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/bin/Debug/net7.0/P9 TUPLAS.pdb
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/P9 TUPLAS.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/P9 TUPLAS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/P9 TUPLAS.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/P9 TUPLAS.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/P9 TUPLAS.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/P9 TUPLAS.dll
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/refint/P9 TUPLAS.dll
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/P9 TUPLAS.pdb
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/P9 TUPLAS.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P9 TUPLAS/obj/Debug/net7.0/ref/P9 TUPLAS.dll
