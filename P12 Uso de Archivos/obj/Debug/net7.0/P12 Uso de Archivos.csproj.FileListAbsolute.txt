@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/bin/Debug/net7.0/P12 Uso de Archivos
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/bin/Debug/net7.0/P12 Uso de Archivos.deps.json
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/bin/Debug/net7.0/P12 Uso de Archivos.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/bin/Debug/net7.0/P12 Uso de Archivos.dll
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/bin/Debug/net7.0/P12 Uso de Archivos.pdb
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/P12 Uso de Archivos.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/P12 Uso de Archivos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/P12 Uso de Archivos.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/P12 Uso de Archivos.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/P12 Uso de Archivos.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/P12 Uso de Archivos.dll
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/refint/P12 Uso de Archivos.dll
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/P12 Uso de Archivos.pdb
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/P12 Uso de Archivos.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P12 Uso de Archivos/obj/Debug/net7.0/ref/P12 Uso de Archivos.dll
