@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/bin/Debug/net7.0/P14 Excepciones
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/bin/Debug/net7.0/P14 Excepciones.deps.json
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/bin/Debug/net7.0/P14 Excepciones.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/bin/Debug/net7.0/P14 Excepciones.dll
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/bin/Debug/net7.0/P14 Excepciones.pdb
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/P14 Excepciones.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/P14 Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/P14 Excepciones.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/P14 Excepciones.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/P14 Excepciones.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/P14 Excepciones.dll
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/refint/P14 Excepciones.dll
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/P14 Excepciones.pdb
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/P14 Excepciones.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P14 Excepciones/obj/Debug/net7.0/ref/P14 Excepciones.dll
