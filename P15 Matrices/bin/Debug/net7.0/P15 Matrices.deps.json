@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P15 Matrices/1.0.0": {
+        "runtime": {
+          "P15 Matrices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P15 Matrices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

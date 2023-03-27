@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P15 Matrices/bin/Debug/net7.0/P15 Matrices
+/Users/emiliano/Desktop/dotNET/P15 Matrices/bin/Debug/net7.0/P15 Matrices.deps.json
+/Users/emiliano/Desktop/dotNET/P15 Matrices/bin/Debug/net7.0/P15 Matrices.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P15 Matrices/bin/Debug/net7.0/P15 Matrices.dll
+/Users/emiliano/Desktop/dotNET/P15 Matrices/bin/Debug/net7.0/P15 Matrices.pdb
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/P15 Matrices.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/P15 Matrices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/P15 Matrices.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/P15 Matrices.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/P15 Matrices.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/P15 Matrices.dll
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/refint/P15 Matrices.dll
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/P15 Matrices.pdb
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/P15 Matrices.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P15 Matrices/obj/Debug/net7.0/ref/P15 Matrices.dll
