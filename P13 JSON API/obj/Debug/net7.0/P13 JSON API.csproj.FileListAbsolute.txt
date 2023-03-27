@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/P13 JSON API.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/P13 JSON API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/P13 JSON API.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/P13 JSON API.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/P13 JSON API.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P13 JSON API/bin/Debug/net7.0/P13 JSON API
+/Users/emiliano/Desktop/dotNET/P13 JSON API/bin/Debug/net7.0/P13 JSON API.deps.json
+/Users/emiliano/Desktop/dotNET/P13 JSON API/bin/Debug/net7.0/P13 JSON API.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P13 JSON API/bin/Debug/net7.0/P13 JSON API.dll
+/Users/emiliano/Desktop/dotNET/P13 JSON API/bin/Debug/net7.0/P13 JSON API.pdb
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/P13 JSON API.dll
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/refint/P13 JSON API.dll
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/P13 JSON API.pdb
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/P13 JSON API.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P13 JSON API/obj/Debug/net7.0/ref/P13 JSON API.dll
