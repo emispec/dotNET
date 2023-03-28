@@ -1,8 +1,9 @@
 ﻿using System.Diagnostics;
+int[] arr;
 System.Console.WriteLine("Introduce el numero de elementos: ");
 var N = Convert.ToUInt32(Console.ReadLine());
 
-int[] arr = new int[N];
+arr = new int[N];
 
 for (int i = 0; i < N; i++)
 {
@@ -19,4 +20,4 @@ for (int j = 0; j < N; j++)
     }
 }
 crono.Stop();
-System.Console.WriteLine(crono.Elapsed);
+System.Console.WriteLine($"Para N: {N} elementos, se tarda: {crono.Elapsed}");
