@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/P16 Eventos.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/P16 Eventos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/P16 Eventos.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/P16 Eventos.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/P16 Eventos.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P16 Eventos/bin/Debug/net7.0/P16 Eventos
+/Users/emiliano/Desktop/dotNET/P16 Eventos/bin/Debug/net7.0/P16 Eventos.deps.json
+/Users/emiliano/Desktop/dotNET/P16 Eventos/bin/Debug/net7.0/P16 Eventos.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P16 Eventos/bin/Debug/net7.0/P16 Eventos.dll
+/Users/emiliano/Desktop/dotNET/P16 Eventos/bin/Debug/net7.0/P16 Eventos.pdb
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/P16 Eventos.dll
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/refint/P16 Eventos.dll
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/P16 Eventos.pdb
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/P16 Eventos.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P16 Eventos/obj/Debug/net7.0/ref/P16 Eventos.dll
