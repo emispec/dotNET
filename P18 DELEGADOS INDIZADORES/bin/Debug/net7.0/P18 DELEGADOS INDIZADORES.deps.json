@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P18 DELEGADOS INDIZADORES/1.0.0": {
+        "runtime": {
+          "P18 DELEGADOS INDIZADORES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P18 DELEGADOS INDIZADORES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
