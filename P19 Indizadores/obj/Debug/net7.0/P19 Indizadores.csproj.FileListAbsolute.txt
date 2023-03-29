@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/bin/Debug/net7.0/P19 Indizadores
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/bin/Debug/net7.0/P19 Indizadores.deps.json
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/bin/Debug/net7.0/P19 Indizadores.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/bin/Debug/net7.0/P19 Indizadores.dll
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/bin/Debug/net7.0/P19 Indizadores.pdb
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/P19 Indizadores.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/P19 Indizadores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/P19 Indizadores.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/P19 Indizadores.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/P19 Indizadores.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/P19 Indizadores.dll
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/refint/P19 Indizadores.dll
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/P19 Indizadores.pdb
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/P19 Indizadores.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P19 Indizadores/obj/Debug/net7.0/ref/P19 Indizadores.dll
