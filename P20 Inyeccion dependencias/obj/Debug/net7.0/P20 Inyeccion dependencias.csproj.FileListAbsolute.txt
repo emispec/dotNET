@@ -1,0 +1,5 @@
+/Users/emiliano/Desktop/dotNET/P20 Inyeccion dependencias/obj/Debug/net7.0/P20 Inyeccion dependencias.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P20 Inyeccion dependencias/obj/Debug/net7.0/P20 Inyeccion dependencias.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P20 Inyeccion dependencias/obj/Debug/net7.0/P20 Inyeccion dependencias.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P20 Inyeccion dependencias/obj/Debug/net7.0/P20 Inyeccion dependencias.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P20 Inyeccion dependencias/obj/Debug/net7.0/P20 Inyeccion dependencias.csproj.CoreCompileInputs.cache
