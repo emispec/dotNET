@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/bin/Debug/net7.0/P21 Patrones de diseño
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/bin/Debug/net7.0/P21 Patrones de diseño.deps.json
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/bin/Debug/net7.0/P21 Patrones de diseño.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/bin/Debug/net7.0/P21 Patrones de diseño.dll
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/bin/Debug/net7.0/P21 Patrones de diseño.pdb
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/P21 Patrones de diseño.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/P21 Patrones de diseño.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/P21 Patrones de diseño.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/P21 Patrones de diseño.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/P21 Patrones de diseño.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/P21 Patrones de diseño.dll
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/refint/P21 Patrones de diseño.dll
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/P21 Patrones de diseño.pdb
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/P21 Patrones de diseño.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/P21 Patrones de diseño/obj/Debug/net7.0/ref/P21 Patrones de diseño.dll
