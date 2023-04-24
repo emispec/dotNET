@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/Pre-Parcial.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/Pre-Parcial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/Pre-Parcial.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/Pre-Parcial.AssemblyInfo.cs
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/Pre-Parcial.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/bin/Debug/net7.0/Pre-Parcial
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/bin/Debug/net7.0/Pre-Parcial.deps.json
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/bin/Debug/net7.0/Pre-Parcial.runtimeconfig.json
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/bin/Debug/net7.0/Pre-Parcial.dll
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/bin/Debug/net7.0/Pre-Parcial.pdb
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/Pre-Parcial.dll
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/refint/Pre-Parcial.dll
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/Pre-Parcial.pdb
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/Pre-Parcial.genruntimeconfig.cache
+/Users/emiliano/Desktop/ISTEA/C#/Pre-Parcial/obj/Debug/net7.0/ref/Pre-Parcial.dll

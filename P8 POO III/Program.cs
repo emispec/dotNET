@@ -16,7 +16,7 @@ Console.WriteLine(soloFecha);
 */
 
 //INTERFACES
-/*
+
 var persona = new Persona();
 Console.WriteLine($"Bienvenido {persona.Nombre}");
 
@@ -70,5 +70,4 @@ public interface IPersonas
     public void PreguntarDatos();
     public void EscribirDatos();
 }
-*/
 

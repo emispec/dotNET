@@ -16,7 +16,7 @@ namespace P14_Excepciones
         //metodos
         public UsuarioNoEncontrado(string message) : base(message)
         {
-
+            
         }
 
         public UsuarioNoEncontrado(string message, Exception ex) : base(message, ex)
