@@ -6,9 +6,6 @@ Requerimientos
 * El programa debe solicitar, luego, la cantidad de respuestas incorrectas
 * El programa debe solicitar, luego, la cantidad de respuestas en blanco.
 * El programa debe, finalmente, mostrar la nota del alumno.
-Gonzalo Ezequiel Rodriguez19:03
-al mail le enviamos el archivo comprimido
-Sebastián Ledesma19:03
 * Para calcular la nota se suma 1 punto por cada respuesta correcta y se resta 0.5 puntos por cada respuesta incorrecta. Si hay más del 25% de las respuesta en blanco, entonces se restan 2 puntos a la nota final.
 
 Mandar comprimido a sebastian.ledesma@istea.com.ar

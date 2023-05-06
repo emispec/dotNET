@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emiliano/Desktop/dotNET/Pre-Parcial/Pre-Parcial.csproj": {}
+    "/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/test.csproj": {}
   },
   "projects": {
-    "/Users/emiliano/Desktop/dotNET/Pre-Parcial/Pre-Parcial.csproj": {
+    "/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emiliano/Desktop/dotNET/Pre-Parcial/Pre-Parcial.csproj",
-        "projectName": "Pre-Parcial",
-        "projectPath": "/Users/emiliano/Desktop/dotNET/Pre-Parcial/Pre-Parcial.csproj",
+        "projectUniqueName": "/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/test.csproj",
+        "projectName": "test",
+        "projectPath": "/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/test.csproj",
         "packagesPath": "/Users/emiliano/.nuget/packages/",
-        "outputPath": "/Users/emiliano/Desktop/dotNET/Pre-Parcial/obj/",
+        "outputPath": "/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emiliano/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,30 @@
+/Users/emiliano/Desktop/ISTEA/C#/test/bin/Debug/net7.0/test
+/Users/emiliano/Desktop/ISTEA/C#/test/bin/Debug/net7.0/test.deps.json
+/Users/emiliano/Desktop/ISTEA/C#/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/emiliano/Desktop/ISTEA/C#/test/bin/Debug/net7.0/test.dll
+/Users/emiliano/Desktop/ISTEA/C#/test/bin/Debug/net7.0/test.pdb
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/test.dll
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/refint/test.dll
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/test.pdb
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/emiliano/Desktop/ISTEA/C#/test/obj/Debug/net7.0/ref/test.dll
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/bin/Debug/net7.0/test
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/bin/Debug/net7.0/test.deps.json
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/bin/Debug/net7.0/test.dll
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/bin/Debug/net7.0/test.pdb
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/test.dll
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/refint/test.dll
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/test.pdb
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/emiliano/Desktop/ISTEA/C#/Tarea 2/obj/Debug/net7.0/ref/test.dll
