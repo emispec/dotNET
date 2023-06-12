@@ -26,6 +26,9 @@ prima, en vez de calcularla por código
 System.Console.WriteLine("Ingrese la cantidad de registros: ");
 int registros = Convert.ToInt32(Console.ReadLine());
 
+System.Console.WriteLine("Introducir valor PRIMA: ");
+double prima = Convert.ToDouble(Console.ReadLine());
+
 double[] datos = new double[registros];
 double[] datosConPrima = new double[registros];
 
@@ -33,9 +36,6 @@ for (int i = 0; i < datos.Length; i++)
 {
     System.Console.WriteLine("Introducir el monto del abono: ");
     datos[i] = Convert.ToDouble(Console.ReadLine());
-
-    System.Console.WriteLine("Introducir valor PRIMA: ");
-    double prima = Convert.ToDouble(Console.ReadLine());
 
     datosConPrima[i] = datos[i] * (1 + prima);
 }
