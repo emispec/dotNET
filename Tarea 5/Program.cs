@@ -45,6 +45,7 @@ double maximo = datos.Max();
 double minimo = datos.Min();
 double promedio = datos.Average();
 double sumatoria = datos.Sum();
+int cantidad = datos.Count();
 
 // MENU
 System.Console.WriteLine(@"
@@ -77,7 +78,7 @@ switch (opcionMenu)
             break;
 
         case 4:
-            Console.WriteLine($"La cantidad de números es: {registros}");
+            Console.WriteLine($"La cantidad de abonos es: {cantidad}");
             break;
 
         case 5:
