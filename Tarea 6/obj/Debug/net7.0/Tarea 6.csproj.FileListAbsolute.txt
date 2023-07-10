@@ -1,0 +1,15 @@
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/Tarea 6.csproj.AssemblyReference.cache
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/Tarea 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/Tarea 6.AssemblyInfoInputs.cache
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/Tarea 6.AssemblyInfo.cs
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/Tarea 6.csproj.CoreCompileInputs.cache
+/Users/emiliano/Desktop/dotNET/Tarea 6/bin/Debug/net7.0/Tarea 6
+/Users/emiliano/Desktop/dotNET/Tarea 6/bin/Debug/net7.0/Tarea 6.deps.json
+/Users/emiliano/Desktop/dotNET/Tarea 6/bin/Debug/net7.0/Tarea 6.runtimeconfig.json
+/Users/emiliano/Desktop/dotNET/Tarea 6/bin/Debug/net7.0/Tarea 6.dll
+/Users/emiliano/Desktop/dotNET/Tarea 6/bin/Debug/net7.0/Tarea 6.pdb
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/Tarea 6.dll
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/refint/Tarea 6.dll
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/Tarea 6.pdb
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/Tarea 6.genruntimeconfig.cache
+/Users/emiliano/Desktop/dotNET/Tarea 6/obj/Debug/net7.0/ref/Tarea 6.dll
