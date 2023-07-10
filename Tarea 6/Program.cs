@@ -90,7 +90,7 @@ double ventaProm() {
     return ventas.Average();
 }
 //4
-static string rendimientoPorVenta(double[] ventas) {
+string rendimientoPorVenta(double[] ventas) {
     string mensaje = "Rendimientos por venta:\n";
 
     for (int i = 1; i < ventas.Length; i++)
